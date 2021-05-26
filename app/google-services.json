@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "814847138726",
+    "firebase_url": "https://homeautomation-baddd.firebaseio.com",
+    "project_id": "homeautomation-baddd",
+    "storage_bucket": "homeautomation-baddd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814847138726:android:c73943d93b4ed624890d67",
+        "android_client_info": {
+          "package_name": "com.example.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814847138726-iio7strr6tmrv1kv0g7hugcs8ntm857b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smarthome",
+            "certificate_hash": "2271f240074c2db53d72829128265d800832703c"
+          }
+        },
+        {
+          "client_id": "814847138726-t05o9826sotlmbom08img4cfb5ruqiv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAURQWS5npTHXkXPdq6MCC2glIUt1ox8sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814847138726-t05o9826sotlmbom08img4cfb5ruqiv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
